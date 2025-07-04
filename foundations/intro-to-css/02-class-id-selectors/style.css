@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-size: 18px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one_ID {
+    font-size: 36px;
+    color: blue;
+}
+
+.cooler{
+    font-size: 27px;
+}
+
+#another_ID{
+    background-color: lightgreen;
+    font-size: 27px;
+    font-weight: 900;
+}
+
